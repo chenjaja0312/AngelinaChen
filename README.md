@@ -4,16 +4,19 @@ Here is my self-introduction.
 1.Hobbies:
 ===
 *listening to music.*  
-+>My favorite singers are Ed Sheeran and 告五人.  
+## H2
+My favorite singers are Ed Sheeran and 告五人.  
 >>After listening to music, I feel more energetic and have the power to do some boring but necessary things.  
-+When I study, I like to listen to lofi hip hop or jazz.  
-+If I have free time, I just want to stay in my room and do nothing.
+When I study, I like to listen to lofi hip hop or jazz.  
+If I have free time, I just want to stay in my room and do nothing.
 ---
 *Exercise*
+## H2
 ===
->I enjoy swimming, table tennis, badminton, and so on.   
+>I enjoy swimming, table tennis, badminton, and so on.
+## H2
 >>I always feel better both mentally and physically after exercising.
----
+### H3
 2.Personality:
 ===
 *MBTI: ISFJ*  
