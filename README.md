@@ -6,8 +6,6 @@ Here is my self-introduction.
 ## *listening to music.*  
 ### My favorite singers are Ed Sheeran and 告五人.  
 >>After listening to music, I feel more energetic and have the power to do some boring but necessary things.  
-When I study, I like to listen to lofi hip hop or jazz.  
-If I have free time, I just want to stay in my room and do nothing.
 ---
 ## *Exercise*
 ===
