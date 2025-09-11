@@ -1,9 +1,9 @@
 # AngelinaChen
-Welcome to my website. My name is 陳佳瑄, and my English name is Angelina. Here is my self-introduction. 
+Welcome to my website.*斜體字*   My name is 陳佳瑄, and my English name is Angelina.   Here is my self-introduction. 
 ===
 1.Hobbies:
 ===
-I like listening to music. My favorite singers are Ed Sheeran and 告五人. After listening to music, I feel more energetic and have the power to do some boring but necessary things. When I study, I like to listen to lofi hip hop or jazz.
+I like listening to music. *斜體字*  My favorite singers are Ed Sheeran and 告五人. After listening to music, I feel more energetic and have the power to do some boring but necessary things. When I study, I like to listen to lofi hip hop or jazz.
 If I have free time, I just want to stay in my room and do nothing.
 ---
 2.Exercise:
