@@ -1,5 +1,6 @@
 # AngelinaChen
-Welcome to my website.*斜體字*   My name is 陳佳瑄, and my English name is Angelina.   Here is my self-introduction. 
+Welcome to my website.*斜體字*   
+My name is 陳佳瑄, and my English name is Angelina.   Here is my self-introduction. 
 ===
 1.Hobbies:
 ===
