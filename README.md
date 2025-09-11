@@ -19,9 +19,9 @@ Here is my self-introduction
 ---
 3.Attitude toward life
 ===
-*I can’t be perfect, but I can be unique.*
+### *I can’t be perfect, but I can be unique.*
 ---
 4.Wish
 ===
-I hope to discover my interests, study deeply, and become a professor in this field.
+### I hope to discover my interests, study deeply, and become a professor in this field.
 ---
