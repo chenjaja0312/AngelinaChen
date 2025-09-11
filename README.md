@@ -24,7 +24,7 @@ I hope this will make me a good teammate in class, no matter what the project is
 ---
 4.Attitude toward life:
 ===
-'I can’t be perfect, but I can be unique.'
+*I can’t be perfect, but I can be unique.*
 ---
 5.Wish:
 ===
