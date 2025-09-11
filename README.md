@@ -15,7 +15,7 @@ Here is my self-introduction
 ===
 ## *MBTI: ISFJ*  
 ### I think I am a person who is caring, detail-oriented, and reliable.    
-I hope this will make me a good teammate in class, no matter what the project is.
+>I hope this will make me a good teammate in class, no matter what the project is.
 ---
 3.Attitude toward life
 ===
