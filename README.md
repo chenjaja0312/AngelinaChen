@@ -1,5 +1,4 @@
 *Welcome to my website.*  
-My name is 陳佳瑄  
 Here is my self-introduction. 
 ===
 1.Hobbies:
